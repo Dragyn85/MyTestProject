@@ -1,3 +1,2 @@
 Script A says "hello world"
 Programmer1 says calculate 1+1, none reviewed Code. dont apply to main.
-Programmer2 says calculate 2-1
